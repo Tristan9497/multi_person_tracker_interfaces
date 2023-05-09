@@ -20,6 +20,7 @@ find_package(geometry_msgs REQUIRED)
 set(msg_files
   "msg/Person.msg"
   "msg/People.msg"
+  "msg/BoundingBox.msg"
 )
 rosidl_generate_interfaces(${PROJECT_NAME}
   ${msg_files}
