@@ -1,2 +1,2 @@
 std_msgs/Header header
-multi_person_tracker_interfaces/BoundingBox[] boundingBoxes
+multi_person_tracker_interfaces/BoundingBox[] boundingboxes
